@@ -2,6 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "declaration": true,
+    "typeRoots": ["barba/core/@types", "./typings"],
     "removeComments": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
